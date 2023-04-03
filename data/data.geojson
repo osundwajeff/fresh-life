@@ -1,0 +1,7271 @@
+{
+    "type": "FeatureCollection",
+    "name": "toilets",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC001",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC002",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC004",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC005",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC006",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC007",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC008",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC009",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC010",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC011",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC012",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC013",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC014",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC015",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC016",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC017",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC018",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC019",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC020",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC021",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC022",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC023",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC024",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC025",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC026",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC027",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC028",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC029",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC030",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC031",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC032",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC033",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC034",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC035",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC036",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC037",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC038",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC039",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC041",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC042",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC043",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC044",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC045",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC046",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC047",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC048",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC049",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC052",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC053",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC054",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC055",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC056",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC057",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC058",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC059",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC060",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC061",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC062",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC063",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC064",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC065",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC066",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC067",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC068",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC069",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC070",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC071",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC072",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC073",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC074",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC075",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC076",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC077",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC078",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC079",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC080",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC081",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC082",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC083",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC084",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC085",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC086",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC087",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC088",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC089",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC090",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC091",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC092",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC093",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC094",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC095",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC096",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC097",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC098",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC099",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC100",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC101",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC102",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC103",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC104",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC105",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC106",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC107",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC108",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC109",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC110",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC111",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC112",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC113",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC114",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC115",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC116",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC117",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC118",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC119",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC120",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC121",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC122",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC123",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC124",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC125",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC126",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC127",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC128",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC130",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC131",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC133",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC134",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC135",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC136",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC137",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC138",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC139",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC140",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC141",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC142",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC143",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC144",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC145",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC146",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC147",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC148",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC149",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC150",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC151",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC152",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC153",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC154",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC155",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC156",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC157",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC158",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC159",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC160",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC161",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC162",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC163",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC164",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC165",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC166",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC167",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC168",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC169",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC170",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC171",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC172",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC173",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC174",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC175",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC176",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC177",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC178",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC179",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC180",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC181",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC184",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC185",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC186",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC187",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "ABC188",
+          "Area": "Kibera",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF188",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF189",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF190",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF191",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF192",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF193",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF194",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF195",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF196",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF197",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF198",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF199",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF200",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF201",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF202",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF203",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF204",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF205",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF206",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF207",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF208",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF209",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF210",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF211",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF212",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF213",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF214",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF215",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF216",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF217",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF218",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.3,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.3
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF219",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF220",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF221",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF222",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF223",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF224",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF225",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF226",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF227",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF228",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF229",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF231",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF232",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF234",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF235",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF236",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF237",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF238",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF239",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF240",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF241",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF242",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF243",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF244",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF245",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF246",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF247",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF248",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF249",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF250",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF251",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF252",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF253",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF254",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF255",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF256",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF257",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF258",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF259",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF260",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF261",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF262",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF263",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF264",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF265",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF266",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF267",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF268",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF269",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.3,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.3
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF270",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF271",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF272",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF273",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF274",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF275",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.8
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.8,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF276",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF277",
+          "Area": "Laini Saba",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF278",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF279",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF280",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF281",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF282",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF283",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF286",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF287",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF288",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF289",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF290",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF291",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF292",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF293",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF294",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF295",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF296",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF297",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF298",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF299",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF300",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF301",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF302",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF303",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF304",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF305",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF306",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF307",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF308",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF309",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF310",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF311",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF312",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF313",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF314",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF315",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF316",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF317",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF319",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF320",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF321",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF322",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF323",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF324",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF325",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF326",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF327",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF328",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF329",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF330",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF331",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF332",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF333",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF334",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF335",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF336",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF337",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF338",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF339",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF340",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF341",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF342",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF343",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF344",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF345",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF346",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF347",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF348",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF349",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF350",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF351",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF352",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF353",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF354",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF356",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF357",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF358",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF359",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF360",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF361",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF362",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF363",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF365",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF366",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF367",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF368",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF369",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF370",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF371",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF372",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF373",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF374",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF375",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF376",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF377",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF378",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF379",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF380",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF382",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF383",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF385",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF386",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF387",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF388",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF389",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF390",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF391",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF392",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF393",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF394",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF395",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF396",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF397",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF398",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF399",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF400",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF401",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF402",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF403",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.3,
+          "Location_1": 36.76
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.76,
+            -1.3
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF404",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF405",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF406",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF407",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF408",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF409",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF410",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF411",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF412",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF413",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF414",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF415",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF416",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF417",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF418",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF419",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF420",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF421",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF422",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF423",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF424",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF425",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF426",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF427",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF428",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF429",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF430",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF431",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF432",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF433",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF434",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF435",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF436",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF437",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF439",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF440",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.77
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.77,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF441",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF442",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.79
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.79,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF443",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.32,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.32
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ToiletName": "DEF444",
+          "Area": "Sarangombe",
+          "Region": "Nairobi",
+          "Location/G": -1.31,
+          "Location_1": 36.78
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.78,
+            -1.31
+          ]
+        }
+      }
+    ]
+  }
