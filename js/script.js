@@ -76,23 +76,57 @@ function addDataToMap(data, map) {
 
   });
 
-  
 
   // add all layers to the map
   dataLayer.addTo(map);
   
   
   // call createLayerSwitcher function and pass basemaps and thematic layers as arguments
-  createLayerSwitcher(dataLayer, otherLayers);
+  createLayerSwitcher(dataLayer, otherLayers, cLayers);
 }
 $.getJSON("data/data.geojson", function (data) {
   addDataToMap(data, map);
 });
 //######################################################
 
-console.log("otherLayers",otherLayers)
+//######################################################
+//consolidation data
+var cLayers = {}
+function addCollectToMap(data1, map) {
+  var collectLayer = L.geoJson(data1, {
+    pointToLayer: function (feature, latlng) {
+      return new L.CircleMarker(latlng, {
+        radius: 7,
+        fillColor: "#ff0000",
+        color: "#000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 1,
+      });
+    },
+    onEachFeature: function (feature, layer) {
+      var popupText =
+        " Consolidation Center: " + feature.properties.ConsolidationCenter +
+        "<br>Present Status: " + feature.properties.Present;
+      layer.bindPopup(popupText);
+    },
+
+  });
+
+
+  // add all layers to the map
+  collectLayer.addTo(map);
+
+  cLayers = collectLayer;
+}
+$.getJSON("data/consolidation.geojson", function (data1) {
+  addCollectToMap(data1, map);
+});
+//######################################################
+//console.log("cLayers", cLayers)
+//console.log("otherLayers",otherLayers)
 // function to create a layer switcher control
-function createLayerSwitcher(dataLayer, otherLayers) {
+function createLayerSwitcher(dataLayer, otherLayers, collectLayer) {
   // define basemap layers
   var basemaps = {
     "OpenStreetMap": L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
@@ -104,6 +138,7 @@ function createLayerSwitcher(dataLayer, otherLayers) {
   // define thematic layers
   var thematicLayers = {
     "Fresh Life Toilets": dataLayer,
+    "collection/consolidation points": collectLayer,
   };
 
   for (var key in otherLayers) {
