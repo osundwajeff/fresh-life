@@ -12,7 +12,7 @@ L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
 
 
 
-
+var cLayers = {}
 //#####################################################3
 var otherLayers = {};
 
@@ -79,7 +79,7 @@ function addDataToMap(data, map) {
 
   // add all layers to the map
   dataLayer.addTo(map);
-  
+  //console.log("dataLayer", dataLayer)
   
   // call createLayerSwitcher function and pass basemaps and thematic layers as arguments
   createLayerSwitcher(dataLayer, otherLayers, cLayers);
@@ -91,7 +91,7 @@ $.getJSON("data/data.geojson", function (data) {
 
 //######################################################
 //consolidation data
-var cLayers = {}
+
 function addCollectToMap(data1, map) {
   var collectLayer = L.geoJson(data1, {
     pointToLayer: function (feature, latlng) {
@@ -118,12 +118,14 @@ function addCollectToMap(data1, map) {
   collectLayer.addTo(map);
 
   cLayers = collectLayer;
+  
 }
 $.getJSON("data/consolidation.geojson", function (data1) {
   addCollectToMap(data1, map);
 });
 //######################################################
-//console.log("cLayers", cLayers)
+addCollectToMap()
+console.log("cLayers", collectLayer)
 //console.log("otherLayers",otherLayers)
 // function to create a layer switcher control
 function createLayerSwitcher(dataLayer, otherLayers, collectLayer) {
@@ -140,7 +142,7 @@ function createLayerSwitcher(dataLayer, otherLayers, collectLayer) {
     "Fresh Life Toilets": dataLayer,
     "collection/consolidation points": collectLayer,
   };
-
+//console.log("thematic", thematicLayers)
   for (var key in otherLayers) {
     thematicLayers[key] = otherLayers[key];
   }
